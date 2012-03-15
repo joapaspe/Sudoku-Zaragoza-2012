@@ -21,3 +21,14 @@ C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.read.
 C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.exe
 C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.pdb
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.exe
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.pdb
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\bin\Debug\Sudokus\sudoku1.txt
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\bin\Debug\MainSudoku.exe
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\bin\Debug\MainSudoku.pdb
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.Form1.resources
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.Properties.Resources.resources
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.SudokuGrid.resources
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.write.1.tlog
