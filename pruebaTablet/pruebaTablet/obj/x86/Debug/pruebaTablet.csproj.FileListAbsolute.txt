@@ -1,0 +1,11 @@
+c:\Users\Joan\Documents\Visual Studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\Interop.MSINKAUTLib.dll
+c:\Users\Joan\Documents\Visual Studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.csproj.ResolveComReference.cache
+C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\bin\Debug\pruebaTablet.exe
+C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\bin\Debug\pruebaTablet.pdb
+C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.Form1.resources
+C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.Properties.Resources.resources
+C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.exe
+C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.pdb
