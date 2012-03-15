@@ -1,0 +1,23 @@
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\bin\Debug\Sudokus\sudoku1.txt
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\bin\Debug\MainSudoku.exe
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\bin\Debug\MainSudoku.pdb
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.Form1.resources
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.Properties.Resources.resources
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.exe
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.pdb
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.SudokuGrid.resources
+L:\hitita\Zaragoza 2012\MainSudoku\MainSudoku\bin\Debug\Microsoft.Ink.dll
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\bin\Debug\Sudokus\sudoku1.txt
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\bin\Debug\MainSudoku.exe
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\bin\Debug\MainSudoku.pdb
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.Form1.resources
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.Properties.Resources.resources
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.SudokuGrid.resources
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.exe
+C:\Users\Joan\Desktop\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.pdb
