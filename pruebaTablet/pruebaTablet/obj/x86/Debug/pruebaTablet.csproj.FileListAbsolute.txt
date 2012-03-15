@@ -9,3 +9,14 @@ C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\ob
 C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.exe
 C:\Users\Joan\documents\visual studio 2010\Projects\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.pdb
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\Interop.MSINKAUTLib.dll
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.csproj.ResolveComReference.cache
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.exe
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.pdb
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\bin\Debug\pruebaTablet.exe
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\bin\Debug\pruebaTablet.pdb
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.Form1.resources
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.Properties.Resources.resources
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\GenerateResource.write.1.tlog
