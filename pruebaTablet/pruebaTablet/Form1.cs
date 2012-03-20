@@ -12,6 +12,7 @@ namespace pruebaTablet
     public partial class Form1 : Form
     {
         InkOverlay inkOverlay;
+        
         public Form1()
         {
             InitializeComponent();
@@ -31,7 +32,51 @@ namespace pruebaTablet
             inkOverlay.SetGestureStatus(ApplicationGesture.Down, true);
             inkOverlay.SetGestureStatus(ApplicationGesture.Check,true);
             
+
+            // timer configuration
+            timer1.Interval = 500;
+            this.inkOverlay.Stroke += new InkCollectorStrokeEventHandler(Event_Stroke);
+
+
         }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            timer1.Stop();
+
+            //Recognition
+            Recognizers recs = new Recognizers();
+            Recognizer reco = recs.GetDefaultRecognizer();
+            RecognizerContext context = reco.CreateRecognizerContext();
+            context.Strokes = inkOverlay.Ink.Strokes;
+
+            RecognitionStatus status = RecognitionStatus.NoError;
+            RecognitionResult res = context.Recognize(out status);
+
+            if (status == RecognitionStatus.NoError)
+            {
+                MessageBox.Show(res.TopAlternate.ToString());
+
+            }
+
+            //Cleaning the strokes
+            inkOverlay.Ink.DeleteStrokes(inkOverlay.Ink.Strokes);
+            inkOverlay.Ink.Strokes.Clear();
+
+            Invalidate();
+        }
+
+        private  void Event_Stroke(object Sender, InkCollectorStrokeEventArgs e){
+
+            InkOverlay myInk = (InkOverlay) Sender;
+
+            if (myInk.Ink.Strokes.Count == 1)
+            {
+                timer1.Start();
+                    
+            }
+        }
+
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -50,6 +95,12 @@ namespace pruebaTablet
 
             }
 
+            //Cleaning the strokes
+            inkOverlay.Ink.DeleteStrokes(inkOverlay.Ink.Strokes);
+            inkOverlay.Ink.Strokes.Clear();
+
+            Invalidate();
+            
         }
 
         void Event_OnApplicationGesture(object sender, InkCollectorGestureEventArgs e)
@@ -83,6 +134,27 @@ namespace pruebaTablet
             }
 
         }
+
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string info = "";
+
+            info += String.Format("There are {0} strokes.\n", inkOverlay.Ink.Strokes.Count);
+            foreach(Stroke stroke in inkOverlay.Ink.Strokes){
+                info+= String.Format("Stroke has {0} points.\n",stroke.GetPoints().Length);
+            }
+
+            MessageBox.Show(info);
+
+            
+            
+        }
+
+
+        
+
+        
 
 
  

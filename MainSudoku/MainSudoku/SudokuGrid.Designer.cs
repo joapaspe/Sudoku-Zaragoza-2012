@@ -33,6 +33,9 @@
             // 
             // gridLayout
             // 
+            this.gridLayout.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+                        | System.Windows.Forms.AnchorStyles.Left)
+                        | System.Windows.Forms.AnchorStyles.Right)));
             this.gridLayout.ColumnCount = 9;
             this.gridLayout.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
             this.gridLayout.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle());
@@ -66,6 +69,7 @@
             this.Controls.Add(this.gridLayout);
             this.Name = "SudokuGrid";
             this.Size = new System.Drawing.Size(495, 429);
+            this.Load += new System.EventHandler(this.SudokuGrid_Load);
             this.ResumeLayout(false);
 
         }

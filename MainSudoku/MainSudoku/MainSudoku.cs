@@ -9,12 +9,17 @@ using System.Windows.Forms;
 
 namespace MainSudoku
 {
-    public partial class Form1 : Form
+    public partial class MainSudokuForm : Form
     {
-
+        /// <summary>
+        /// Link to the sudoku data
+        /// </summary>
         private SudokuData currentPuzzle;
 
-        public Form1()
+        /// <summary>
+        /// Main Form of the application
+        /// </summary>
+        public MainSudokuForm()
         {
             InitializeComponent();
 
@@ -22,6 +27,11 @@ namespace MainSudoku
 
         }
 
+        /// <summary>
+        /// Button event that open a sudoku file
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void LoadSudoku_Click(object sender, EventArgs e)
         {
             OpenFileDialog opf = new OpenFileDialog();
@@ -32,9 +42,9 @@ namespace MainSudoku
 
             if (res == System.Windows.Forms.DialogResult.OK)
             {
-                //TODO: Show Spin
+                
                 currentPuzzle.loadFromFile(opf.FileName);
-                //MessageBox.Show(currentPuzzle.ToString());
+                
                 this.sudokuGrid1.Hide();
                 this.sudokuGrid1.generateControls(currentPuzzle);
                 this.sudokuGrid1.Show();
@@ -54,6 +64,11 @@ namespace MainSudoku
 
         }
 
+        /// <summary>
+        /// Button that checks if the sudoku is complete
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void checkButton_Click(object sender, EventArgs e)
         {
             
@@ -70,6 +85,11 @@ namespace MainSudoku
             }
         }
 
+        /// <summary>
+        /// Button that solves the sudoku
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void SolveButton_Click(object sender, EventArgs e)
         {
             currentPuzzle.SolveSudoku();

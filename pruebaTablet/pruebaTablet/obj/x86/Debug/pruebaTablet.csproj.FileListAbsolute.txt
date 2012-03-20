@@ -20,3 +20,14 @@ C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\De
 C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.Properties.Resources.resources
 C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\Interop.MSINKAUTLib.dll
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.csproj.ResolveComReference.cache
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.exe
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.pdb
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\bin\Debug\pruebaTablet.exe
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\bin\Debug\pruebaTablet.pdb
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.Form1.resources
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\pruebaTablet.Properties.Resources.resources
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Joan\repos\Sudoku-Zaragoza-2012\pruebaTablet\pruebaTablet\obj\x86\Debug\GenerateResource.write.1.tlog

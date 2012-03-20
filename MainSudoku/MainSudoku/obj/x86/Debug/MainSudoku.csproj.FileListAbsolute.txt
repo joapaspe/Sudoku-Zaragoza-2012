@@ -32,3 +32,15 @@ C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\
 C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.SudokuGrid.resources
 C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\jpastor\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.Properties.Resources.resources
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.SudokuGrid.resources
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\bin\Debug\Sudokus\sudoku1.txt
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\bin\Debug\MainSudoku.XML
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\bin\Debug\MainSudoku.exe
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\bin\Debug\MainSudoku.pdb
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.MainSudokuForm.resources
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.exe
+D:\Joan\repos\Sudoku-Zaragoza-2012\MainSudoku\MainSudoku\obj\x86\Debug\MainSudoku.pdb

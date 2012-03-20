@@ -1,6 +1,6 @@
 ﻿namespace MainSudoku
 {
-    partial class Form1
+    partial class MainSudokuForm
     {
         /// <summary>
         /// Variable del diseñador requerida.
@@ -36,7 +36,7 @@
             // 
             // LoadSudoku
             // 
-            this.LoadSudoku.Location = new System.Drawing.Point(636, 43);
+            this.LoadSudoku.Location = new System.Drawing.Point(714, 57);
             this.LoadSudoku.Name = "LoadSudoku";
             this.LoadSudoku.Size = new System.Drawing.Size(203, 39);
             this.LoadSudoku.TabIndex = 0;
@@ -46,7 +46,7 @@
             // 
             // checkButton
             // 
-            this.checkButton.Location = new System.Drawing.Point(636, 292);
+            this.checkButton.Location = new System.Drawing.Point(714, 342);
             this.checkButton.Name = "checkButton";
             this.checkButton.Size = new System.Drawing.Size(203, 43);
             this.checkButton.TabIndex = 3;
@@ -56,7 +56,7 @@
             // 
             // SolveButton
             // 
-            this.SolveButton.Location = new System.Drawing.Point(636, 363);
+            this.SolveButton.Location = new System.Drawing.Point(714, 412);
             this.SolveButton.Name = "SolveButton";
             this.SolveButton.Size = new System.Drawing.Size(203, 43);
             this.SolveButton.TabIndex = 4;
@@ -67,22 +67,22 @@
             // sudokuGrid1
             // 
             this.sudokuGrid1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.sudokuGrid1.Location = new System.Drawing.Point(65, 43);
+            this.sudokuGrid1.Location = new System.Drawing.Point(12, 12);
             this.sudokuGrid1.Name = "sudokuGrid1";
-            this.sudokuGrid1.Size = new System.Drawing.Size(497, 431);
+            this.sudokuGrid1.Size = new System.Drawing.Size(696, 515);
             this.sudokuGrid1.TabIndex = 1;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(879, 496);
+            this.ClientSize = new System.Drawing.Size(941, 539);
             this.Controls.Add(this.SolveButton);
             this.Controls.Add(this.checkButton);
             this.Controls.Add(this.sudokuGrid1);
             this.Controls.Add(this.LoadSudoku);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Sudoku Puzzle";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
