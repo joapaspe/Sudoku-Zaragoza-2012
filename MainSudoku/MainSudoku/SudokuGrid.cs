@@ -118,8 +118,7 @@ namespace MainSudoku
         /// </summary>
         /// <param name="sudoku">Sudoku Object with data</param>
         public void generateControls(SudokuData sudoku){
-
-            
+                  
 
               this.mySudoku = sudoku;
 
@@ -189,7 +188,7 @@ namespace MainSudoku
             {
                 for (int j = 0; j < 9; j++)
                 {
-
+                    
                     ctMatrix[i, j].Text = mySudoku[i, j].ToString();
                 }
             }
@@ -204,15 +203,9 @@ namespace MainSudoku
         /// <param name="e"></param>
         private void CellText_Gesture(object sender, Microsoft.Ink.InkEditGestureEventArgs e)
         {
-
-            CellTextBox ct = sender as CellTextBox;
-
+            //TODO: Detect some Gestures and apply actions to this gestures
+            // For example if the gesture is ApplicationGestureLeft or Right, erase the content of the cell
             
-            if (e.Gestures[0].Id == ApplicationGesture.Left || e.Gestures[0].Id == ApplicationGesture.Right)
-            {
-                ct.Text = " ";
-
-            }
 
         }
 
@@ -225,7 +218,6 @@ namespace MainSudoku
         {
             CellTextBox ct = sender as CellTextBox;
 
-            
 
         }
 
@@ -236,43 +228,18 @@ namespace MainSudoku
         /// <param name="e"></param>
         private void CellText_TextChanged(object sender, EventArgs e)
         {
+            //TODO this event is launched when the content of the Cell changes.
+            // When somebody write by keyboard or by hand a number in the cell this function should to check if the introduced text is correct
+            // Then you have to asign the value (if correct) to the sudoku Matrix that is used to compute the solution: mySudoku[ct.row,ct.col]
             CellTextBox ct = sender as CellTextBox;
 
+            // If the cell is blanc put -1 (number that represents that is blank cell)
             if (String.IsNullOrWhiteSpace(ct.Text))
             {
                 mySudoku[ct.row, ct.col] = -1;
             }
                 
-            int num = -1;
-            bool valid = true;
-
-            try
-            {
-                num = Int32.Parse(ct.Text);
-            }
-            catch (Exception exception)
-            {
-                
-                valid = false;
-            }
-            if (num <= 0 || num > 9)
-            {
-                valid = false;
-                
-            }
-            if (!valid)
-            {
-
-                ct.Text = String.Empty;
-                ct.SelectionAlignment = HorizontalAlignment.Center;
-                int previewValue = mySudoku[ct.row, ct.col];
-                if( previewValue != -1)
-                    ct.Text = previewValue.ToString();
-                    
-                return;
-            }
-
-            mySudoku[ct.row, ct.col] = num;
+            
             ct.SelectionAlignment = HorizontalAlignment.Center;
         #endregion
 

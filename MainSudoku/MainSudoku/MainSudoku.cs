@@ -59,11 +59,6 @@ namespace MainSudoku
 
 
 
-        private void inkEdit1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         /// <summary>
         /// Button that checks if the sudoku is complete
         /// </summary>
